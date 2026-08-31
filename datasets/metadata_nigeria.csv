@@ -1,0 +1,226 @@
+subject.id,recordedPeriod,startTime,session.id,first_condition,remarks,Group,csv.file
+6,270,26/9/2016 13:13,1,open,,control,signal-6-1.csv.gz
+9,271,26/9/2016 13:30,1,closed,,control,signal-9-1.csv.gz
+10,272,26/9/2016 13:36,1,open,eyes closed at 2:40,control,signal-10-1.csv.gz
+11,274,26/9/2016 13:42,2,closed,no.11.1 failed  >>  11.2 is the right one,control,signal-11-2.csv.gz
+11,1,26/9/2016 13:42,1,closed,no.11.1 failed  >>  11.2 is the right one,control,signal-11-1.csv.gz
+12,271,26/9/2016 13:47,1,open,,control,signal-12-1.csv.gz
+40,271,26/9/2016 16:56,1,open,eyes closed at 2:40,control,signal-40-1.csv.gz
+49,268,27/9/2016 14:29,1,closed,Teacher + not deaf but sign language experience + possibly distracted during measurement,control,signal-49-1.csv.gz
+63,268,30/9/2016 9:45,1,open,Oxipitaal slecht contact eerste 2:19 minuten,control,signal-63-1.csv.gz
+64,271,30/9/2016 9:51,1,closed,,control,signal-64-1.csv.gz
+65,59,30/9/2016 10:00,2,open,Opened eyes again - file 65.2 is eyes closed only (for 1 minute),control,signal-65-2.csv.gz
+65,266,30/9/2016 9:56,1,open,Opened eyes again - file 65.2 is eyes closed only (for 1 minute),control,signal-65-1.csv.gz
+66,269,30/9/2016 10:02,1,closed,,control,signal-66-1.csv.gz
+67,268,30/9/2016 10:08,1,open,,control,signal-67-1.csv.gz
+68,268,30/9/2016 10:14,1,closed,,control,signal-68-1.csv.gz
+69,289,30/9/2016 10:20,1,open,Ruis tijdens laatste minuut / meting verlengd tot 4:50,control,signal-69-1.csv.gz
+70,268,30/9/2016 10:26,1,closed,,control,signal-70-1.csv.gz
+71,268,30/9/2016 10:32,1,open,,control,signal-71-1.csv.gz
+72,268,30/9/2016 10:37,1,closed,,control,signal-72-1.csv.gz
+73,268,30/9/2016 10:42,1,open,,control,signal-73-1.csv.gz
+74,269,30/9/2016 10:48,1,closed,,control,signal-74-1.csv.gz
+75,266,30/9/2016 10:53,1,open,,control,signal-75-1.csv.gz
+76,269,30/9/2016 10:59,1,closed,,control,signal-76-1.csv.gz
+77,269,30/9/2016 11:05,1,open,,control,signal-77-1.csv.gz
+78,268,30/9/2016 11:10,1,closed,,control,signal-78-1.csv.gz
+79,268,30/9/2016 11:15,1,open,,control,signal-79-1.csv.gz
+80,268,30/9/2016 11:21,1,closed,,control,signal-80-1.csv.gz
+81,268,30/9/2016 11:26,1,open,,control,signal-81-1.csv.gz
+82,268,30/9/2016 11:32,1,closed,,control,signal-82-1.csv.gz
+83,268,30/9/2016 11:37,1,open,,control,signal-83-1.csv.gz
+84,251,30/9/2016 11:42,1,closed,Opened eyes at about 0:45,control,signal-84-1.csv.gz
+85,268,30/9/2016 11:48,1,open,,control,signal-85-1.csv.gz
+86,268,30/9/2016 11:53,1,closed,Marching music started after 15 sec. / first drum caused spike in F3,control,signal-86-1.csv.gz
+87,268,30/9/2016 11:58,1,open,Marching music during recording / people applauding at 2:50 / first drum after silence at about 4:05,control,signal-87-1.csv.gz
+88,268,30/9/2016 12:04,1,closed,,control,signal-88-1.csv.gz
+89,268,30/9/2016 12:09,1,open,People having a break / making noise outside,control,signal-89-1.csv.gz
+90,268,30/9/2016 12:15,1,closed,People having a break / making noise outside,control,signal-90-1.csv.gz
+91,264,30/9/2016 12:20,1,open,Disruption at 0:45 / People having a break / making noise outside,control,signal-91-1.csv.gz
+92,268,30/9/2016 12:26,1,closed,Marching music outside / almost every (heavy) beat caused spikes,control,signal-92-1.csv.gz
+93,269,30/9/2016 12:32,1,open,Marching music outside / almost every (heavy) beat caused spikes (especially FC6; other rhytm of the beat caused other rhytm in FC6),control,signal-93-1.csv.gz
+95,268,30/9/2016 12:44,1,open,Loud marching music outside (with a strong beat),control,signal-95-1.csv.gz
+96,268,30/9/2016 12:50,1,closed,Loud marching music outside (with a strong beat),control,signal-96-1.csv.gz
+97,268,30/9/2016 12:55,1,open,Loud marching music outside (with a strong beat),control,signal-97-1.csv.gz
+98,249,30/9/2016 13:01,1,closed,Loud marching music outside (with a strong beat),control,signal-98-1.csv.gz
+99,268,30/9/2016 13:06,1,open,Loud marching music outside (with a strong beat),control,signal-99-1.csv.gz
+100,268,30/9/2016 13:12,1,closed,People having a break / making noise outside,control,signal-100-1.csv.gz
+101,268,30/9/2016 13:17,1,open,,control,signal-101-1.csv.gz
+102,268,30/9/2016 13:22,1,closed,,control,signal-102-1.csv.gz
+103,268,30/9/2016 13:27,1,open,,control,signal-103-1.csv.gz
+104,268,30/9/2016 13:33,1,closed,opened eyes at 0:50 and 1:07,control,signal-104-1.csv.gz
+105,268,30/9/2016 13:38,1,open,eyes closed at 2:50,control,signal-105-1.csv.gz
+106,269,30/9/2016 13:43,1,closed,,control,signal-106-1.csv.gz
+107,268,30/9/2016 13:48,1,open,,control,signal-107-1.csv.gz
+108,268,30/9/2016 13:55,1,closed,Opened eyes (and focussing) at 2:48 / niet de slimste,control,signal-108-1.csv.gz
+109,268,30/9/2016 14:02,1,open,Schaal met eten kwam in kamer (met aantrekkelijke geur),control,signal-109-1.csv.gz
+110,327,30/9/2016 14:43,1,closed,Huntington / Eyes closed (0-2:30) / eyes open (2:30-4:35) / eyes closed (4:45-5:30),control,signal-110-1.csv.gz
+112,269,30/9/2016 14:55,1,closed,,control,signal-112-1.csv.gz
+113,269,30/9/2016 15:00,1,open,,control,signal-113-1.csv.gz
+114,273,30/9/2016 15:05,1,closed,,control,signal-114-1.csv.gz
+116,269,30/9/2016 15:16,1,closed,Mist linker onderbeen,control,signal-116-1.csv.gz
+120,268,30/9/2016 15:40,1,closed,,control,signal-120-1.csv.gz
+122,268,3/10/2016 13:15,1,closed,teacher,control,signal-122-1.csv.gz
+123,268,3/10/2016 13:21,1,open,teacher,control,signal-123-1.csv.gz
+124,148,3/10/2016 13:26,1,closed,Two files: 124.1 is eyes closed (gesprek gaande op achtergrond) / 124.2 is eyes open,control,signal-124-1.csv.gz
+124,147,3/10/2016 13:29,2,closed,Two files: 124.1 is eyes closed (gesprek gaande op achtergrond) / 124.2 is eyes open,control,signal-124-2.csv.gz
+125,269,3/10/2016 13:33,1,open,teacher,control,signal-125-1.csv.gz
+126,268,3/10/2016 13:38,1,closed,teacher,control,signal-126-1.csv.gz
+127,269,3/10/2016 13:44,1,open,teacher,control,signal-127-1.csv.gz
+128,268,3/10/2016 13:50,1,closed,teacher,control,signal-128-1.csv.gz
+129,268,3/10/2016 13:55,1,open,teacher,control,signal-129-1.csv.gz
+130,268,3/10/2016 14:01,1,closed,teacher,control,signal-130-1.csv.gz
+131,268,3/10/2016 14:07,1,open,teacher,control,signal-131-1.csv.gz
+132,267,3/10/2016 14:12,1,closed,"Dame had dreadlocks, mogelijk oxipitaal minder goed contact",control,signal-132-1.csv.gz
+133,268,3/10/2016 14:18,1,open,teacher,control,signal-133-1.csv.gz
+134,268,3/10/2016 14:23,1,closed,No teacher / eyes open from 2:43,control,signal-134-1.csv.gz
+135,268,3/10/2016 14:29,1,open,teacher,control,signal-135-1.csv.gz
+136,267,3/10/2016 14:34,1,closed,teacher,control,signal-136-1.csv.gz
+137,268,3/10/2016 14:40,1,open,teacher,control,signal-137-1.csv.gz
+138,267,3/10/2016 14:45,1,closed,teacher,control,signal-138-1.csv.gz
+139,268,3/10/2016 14:51,1,open,teacher,control,signal-139-1.csv.gz
+140,268,3/10/2016 14:56,1,closed,teacher,control,signal-140-1.csv.gz
+141,268,3/10/2016 15:02,1,open,teacher,control,signal-141-1.csv.gz
+142,268,3/10/2016 15:07,1,closed,teacher,control,signal-142-1.csv.gz
+143,268,3/10/2016 15:12,1,open,teacher,control,signal-143-1.csv.gz
+144,270,3/10/2016 15:18,1,closed,teacher,control,signal-144-1.csv.gz
+145,268,3/10/2016 15:24,1,open,teacher,control,signal-145-1.csv.gz
+146,268,3/10/2016 15:29,1,closed,teacher,control,signal-146-1.csv.gz
+147,268,3/10/2016 15:35,1,open,teacher,control,signal-147-1.csv.gz
+500,268,28/9/2016 10:07,1,open,He was distracted a few times + closed eyes at 2.41,epilepsy,signal-500-1.csv.gz
+501,268,28/9/2016 10:13,1,closed,Last convulsion may 2016,epilepsy,signal-501-1.csv.gz
+502,268,28/9/2016 10:19,1,open,Last convulsion may 2016,epilepsy,signal-502-1.csv.gz
+503,268,28/9/2016 10:24,1,closed,Last convulsion september 2016,epilepsy,signal-503-1.csv.gz
+504,268,28/9/2016 10:30,1,open,Last convulsion > 4 years ago + finish today (september 28th) with treatment,epilepsy,signal-504-1.csv.gz
+505,268,28/9/2016 10:36,1,closed,Last convulsion august 2016,epilepsy,signal-505-1.csv.gz
+506,268,28/9/2016 10:42,1,open,Last convulsion march 2016,epilepsy,signal-506-1.csv.gz
+507,268,28/9/2016 10:47,1,closed,,epilepsy,signal-507-1.csv.gz
+508,100,28/9/2016 10:54,1,open,Distracted + mental retardation  + remove from dataset,epilepsy,signal-508-1.csv.gz
+509,253,28/9/2016 10:56,1,closed,Last convulsion may 2016,epilepsy,signal-509-1.csv.gz
+510,268,28/9/2016 11:02,1,open,,epilepsy,signal-510-1.csv.gz
+511,266,28/9/2016 11:07,1,closed,Last convulsion 10 months + open eyes at 2.42,epilepsy,signal-511-1.csv.gz
+512,268,28/9/2016 11:13,1,open,Last convulsion 2 years,epilepsy,signal-512-1.csv.gz
+513,270,28/9/2016 11:19,1,closed,Last convulsion september 2016,epilepsy,signal-513-1.csv.gz
+514,290,28/9/2016 11:25,1,open,Last convulsion 2 years / old card missing / forgot to stop > record till 4:58,epilepsy,signal-514-1.csv.gz
+515,88,28/9/2016 11:32,1,closed,mistake during recording >> delete this file,epilepsy,signal-515-1.csv.gz
+516,268,28/9/2016 11:35,1,open,Last convulsion this month,epilepsy,signal-516-1.csv.gz
+517,267,28/9/2016 11:41,1,closed,Last convulsion this month,epilepsy,signal-517-1.csv.gz
+518,268,28/9/2016 11:46,1,open,Last convulsion august 2016,epilepsy,signal-518-1.csv.gz
+519,297,28/9/2016 11:52,1,closed,Different medication + 3 minutes eyes closed/2 minutes eyes open + last convulsion september 2016,epilepsy,signal-519-1.csv.gz
+520,268,28/9/2016 11:58,1,open,Last convulsion august 2016,epilepsy,signal-520-1.csv.gz
+521,268,28/9/2016 12:03,1,closed,Last convulsion september 2016,epilepsy,signal-521-1.csv.gz
+522,14,28/9/2016 12:09,1,open,Prodroma started just after recording + Last convulsion september 2016,epilepsy,signal-522-1.csv.gz
+523,263,28/9/2016 12:15,1,closed,Last convulsion june 2015,epilepsy,signal-523-1.csv.gz
+524,148,28/9/2016 12:21,1,open,Last convulsion may 2016,epilepsy,signal-524-1.csv.gz
+525,225,28/9/2016 12:27,1,closed,Still convulsions,epilepsy,signal-525-1.csv.gz
+526,267,28/9/2016 12:33,1,open,Still convulsions + did not close his eyes!,epilepsy,signal-526-1.csv.gz
+527,268,28/9/2016 12:39,1,closed,Last convulsion september 2016,epilepsy,signal-527-1.csv.gz
+528,268,28/9/2016 12:45,1,open,"Treated for 16 months, stopped march 2016, last convulsion 12 months ago",epilepsy,signal-528-1.csv.gz
+529,267,28/9/2016 12:51,1,closed,"Sometimes distracted (e.g. talking, looking to wall)",epilepsy,signal-529-1.csv.gz
+530,170,28/9/2016 12:57,1,open,Still convulsions,epilepsy,signal-530-1.csv.gz
+531,268,28/9/2016 13:03,1,closed,Last convulsion november 2014,epilepsy,signal-531-1.csv.gz
+532,267,28/9/2016 13:09,1,open,Still convulsion,epilepsy,signal-532-1.csv.gz
+533,268,28/9/2016 13:15,1,closed,Still convulsion,epilepsy,signal-533-1.csv.gz
+534,207,28/9/2016 13:20,1,open,Last convulsion june 2016 + closed eyes at 2.42,epilepsy,signal-534-1.csv.gz
+535,268,28/9/2016 13:26,1,closed,Last convulsion may 2016,epilepsy,signal-535-1.csv.gz
+536,119,28/9/2016 13:32,1,open,Distracted + talking + touching the EEG equipment,epilepsy,signal-536-1.csv.gz
+537,269,28/9/2016 13:35,1,closed,"Opened eyes at 3.00 No convulsion now, no treatment, comes only for test, had more than  3 years treatment in past",epilepsy,signal-537-1.csv.gz
+538,267,28/9/2016 13:40,1,open,"no convulsions, treatment stops today",epilepsy,signal-538-1.csv.gz
+539,267,28/9/2016 13:45,1,closed,Last convulsion april 2016,epilepsy,signal-539-1.csv.gz
+540,134,28/9/2016 13:51,1,open,No convulsions ,epilepsy,signal-540-1.csv.gz
+541,273,28/9/2016 13:56,1,closed,"last convulsion now (4x),  (default!)",epilepsy,signal-541-1.csv.gz
+542,269,28/9/2016 14:02,1,open,,epilepsy,signal-542-1.csv.gz
+543,269,28/9/2016 14:08,1,closed,Last convulsion august 2016,epilepsy,signal-543-1.csv.gz
+544,267,28/9/2016 14:13,1,open,Last convulsion May 2016 ,epilepsy,signal-544-1.csv.gz
+545,268,28/9/2016 14:18,1,closed,Last convulsion January 2016,epilepsy,signal-545-1.csv.gz
+546,274,28/9/2016 14:24,1,open,"Last convulsion now (2x), prodroma (vermoeden) - onrustig gedrag (gapen, met hand gedachteloos langs gezicht wrijven) tijdens de eerste 2 min.",epilepsy,signal-546-1.csv.gz
+547,268,28/9/2016 14:29,1,closed,Last convulsion June 2016 ,epilepsy,signal-547-1.csv.gz
+548,268,28/9/2016 14:35,1,open,Positionering problematisch vanwege haar; oxipitaal elektroden geen/weinig contact met huid,epilepsy,signal-548-1.csv.gz
+549,268,28/9/2016 14:41,1,closed,Still convulsions,epilepsy,signal-549-1.csv.gz
+550,268,28/9/2016 14:46,1,open,Still convulsions,epilepsy,signal-550-1.csv.gz
+551,268,28/9/2016 14:52,1,closed,"Still many convulsions, decreased from abouy 56 per month to 18 per month",epilepsy,signal-551-1.csv.gz
+552,217,28/9/2016 14:57,1,open,"Not clear, she has about one convulsion every 2 months",epilepsy,signal-552-1.csv.gz
+553,268,28/9/2016 15:02,1,closed,Still convulsions + open eyes at 2.42,epilepsy,signal-553-1.csv.gz
+554,268,28/9/2016 15:08,1,open,,epilepsy,signal-554-1.csv.gz
+555,267,28/9/2016 15:13,1,closed,"No convulsions anymore, stop now",epilepsy,signal-555-1.csv.gz
+556,268,28/9/2016 15:19,1,open,Last convulsion 3 months ago,epilepsy,signal-556-1.csv.gz
+557,268,28/9/2016 15:24,1,closed,Last convulsion May 2016,epilepsy,signal-557-1.csv.gz
+558,271,28/9/2016 15:29,1,open,Last May 2016 - no medicines now,epilepsy,signal-558-1.csv.gz
+559,268,28/9/2016 15:35,1,closed,Since July 2016 - no convulsion > 2 months,epilepsy,signal-559-1.csv.gz
+560,271,28/9/2016 15:40,1,open,"improving, not clear if convulsion continue - May 6x, June 15x, July 16, August 4x, Sept ?",epilepsy,signal-560-1.csv.gz
+561,268,28/9/2016 15:45,1,closed,Since Sept 2014 - no convulsions for 1 year - no treatment now,epilepsy,signal-561-1.csv.gz
+562,267,28/9/2016 15:51,1,open,Different medication  ,epilepsy,signal-562-1.csv.gz
+563,268,28/9/2016 15:56,1,closed,,epilepsy,signal-563-1.csv.gz
+564,269,28/9/2016 16:01,1,open,last convulsion 3 days ago (Sept.25),epilepsy,signal-564-1.csv.gz
+565,268,28/9/2016 16:07,1,closed,Bad acquisition + Eyes open during closed time and vice versa,epilepsy,signal-565-1.csv.gz
+566,268,28/9/2016 16:12,1,open,,epilepsy,signal-566-1.csv.gz
+567,267,28/9/2016 16:18,1,closed,Had insults 1 and 2 days before acquisition,epilepsy,signal-567-1.csv.gz
+568,153,28/9/2016 16:23,1,open,,epilepsy,signal-568-1.csv.gz
+569,268,29/9/2016 8:59,1,closed,0-3:00 eyes closed / 3:10-4:30 eyes opened,control,signal-569-1.csv.gz
+570,268,29/9/2016 9:05,1,open,,control,signal-570-1.csv.gz
+571,268,29/9/2016 9:11,1,closed,,control,signal-571-1.csv.gz
+572,270,29/9/2016 9:16,1,open,,control,signal-572-1.csv.gz
+573,313,29/9/2016 9:22,1,closed,Ruis in oxipitaal links; opname verlengd tot 5:16,control,signal-573-1.csv.gz
+574,268,29/9/2016 9:28,1,open,,control,signal-574-1.csv.gz
+575,268,29/9/2016 9:36,1,closed,,control,signal-575-1.csv.gz
+576,269,29/9/2016 9:46,1,open,,control,signal-576-1.csv.gz
+577,272,29/9/2016 10:11,1,closed,,control,signal-577-1.csv.gz
+580,163,1/10/2016 10:52,1,closed,miscommunicatie / laag iq / eyes closed after 1 min. / eyes open from 2:00 till 2:45,epilepsy,signal-580-1.csv.gz
+581,242,1/10/2016 10:57,1,open,,epilepsy,signal-581-1.csv.gz
+582,271,1/10/2016 11:03,1,closed,Medicijn Carbamazepin ,epilepsy,signal-582-1.csv.gz
+583,252,1/10/2016 11:08,1,open,,epilepsy,signal-583-1.csv.gz
+584,268,1/10/2016 11:14,1,closed,Brandwond in gezicht welke door Wim in 2006 ook al was waargenomen,epilepsy,signal-584-1.csv.gz
+585,152,1/10/2016 11:20,1,open,,epilepsy,signal-585-1.csv.gz
+586,268,1/10/2016 11:26,1,closed,,epilepsy,signal-586-1.csv.gz
+587,264,1/10/2016 11:33,1,open,,epilepsy,signal-587-1.csv.gz
+588,268,1/10/2016 11:39,1,closed,Medicijn Carbamazepin ,epilepsy,signal-588-1.csv.gz
+589,269,1/10/2016 11:44,1,open,,epilepsy,signal-589-1.csv.gz
+590,268,1/10/2016 11:51,1,closed,Eyes opened and focussed at 2:45,epilepsy,signal-590-1.csv.gz
+591,207,1/10/2016 11:57,1,open,,epilepsy,signal-591-1.csv.gz
+592,252,1/10/2016 12:02,1,closed,Medicijn Carbamazepin ,epilepsy,signal-592-1.csv.gz
+593,267,1/10/2016 12:08,1,open,,epilepsy,signal-593-1.csv.gz
+594,268,1/10/2016 12:14,1,closed,,epilepsy,signal-594-1.csv.gz
+595,268,1/10/2016 12:20,1,open,,epilepsy,signal-595-1.csv.gz
+596,268,1/10/2016 12:41,1,closed,,epilepsy,signal-596-1.csv.gz
+597,268,1/10/2016 12:46,1,open,,epilepsy,signal-597-1.csv.gz
+598,268,1/10/2016 12:52,1,closed,Medicijn Carbamazepin ,epilepsy,signal-598-1.csv.gz
+599,268,1/10/2016 12:58,1,open,Medicijn Carbamazepin + close eyes at 2.50 ,epilepsy,signal-599-1.csv.gz
+600,297,1/10/2016 13:04,1,closed,1e minuut eraf knippen i.p.v. 30 seconden (omdat er werd gerommeld aan het apparaat tot 50 seconden),epilepsy,signal-600-1.csv.gz
+601,268,1/10/2016 13:10,1,open,,epilepsy,signal-601-1.csv.gz
+602,267,1/10/2016 13:16,1,closed,Medicijn Carbamazepin,epilepsy,signal-602-1.csv.gz
+603,267,1/10/2016 13:21,1,open,Hij heeft een convulsie gehad op de dag van de meting,epilepsy,signal-603-1.csv.gz
+604,268,1/10/2016 13:27,1,closed,Hij heeft medicijnen in het verleden gebruikt (langer dan 1 jaar geleden),epilepsy,signal-604-1.csv.gz
+605,268,1/10/2016 13:33,1,open,Ze neemt medicijnen onregelmatig in.,epilepsy,signal-605-1.csv.gz
+606,268,1/10/2016 13:39,1,closed,,epilepsy,signal-606-1.csv.gz
+607,199,1/10/2016 13:44,1,open,,epilepsy,signal-607-1.csv.gz
+608,267,1/10/2016 13:50,1,closed,,epilepsy,signal-608-1.csv.gz
+609,268,1/10/2016 13:56,1,open,Medicijn Carbamazepin + closed eyes at 2.45,epilepsy,signal-609-1.csv.gz
+610,268,1/10/2016 14:01,1,closed,,epilepsy,signal-610-1.csv.gz
+611,267,1/10/2016 14:06,1,open,,epilepsy,signal-611-1.csv.gz
+612,267,1/10/2016 14:12,1,closed,"Received treatment before, stopped 1 month, last convulsion last month",epilepsy,signal-612-1.csv.gz
+613,270,1/10/2016 14:17,1,open,"Has had epilepsy for many years, last convulsion this month (3x)",epilepsy,signal-613-1.csv.gz
+614,268,1/10/2016 14:23,1,closed,"Medicijn Carrbamazepin, last convulsion Feb.2016 (3x)",epilepsy,signal-614-1.csv.gz
+615,268,1/10/2016 14:28,1,open,,epilepsy,signal-615-1.csv.gz
+616,268,1/10/2016 14:34,1,closed, ,epilepsy,signal-616-1.csv.gz
+617,269,1/10/2016 14:39,1,open,,epilepsy,signal-617-1.csv.gz
+618,268,1/10/2016 14:46,1,closed,Medicijn Carbamazepin ,epilepsy,signal-618-1.csv.gz
+619,267,1/10/2016 14:53,1,open,"Last convulsion yesterday, 4x convulsion in Sept.",epilepsy,signal-619-1.csv.gz
+620,268,1/10/2016 14:59,1,closed,Mogelijk ruis i.v.m. dreadlocks,epilepsy,signal-620-1.csv.gz
+621,268,1/10/2016 15:04,1,open,,epilepsy,signal-621-1.csv.gz
+622,268,1/10/2016 15:10,1,closed,Opened eyes at 0:30 / no medication: default,epilepsy,signal-622-1.csv.gz
+623,268,1/10/2016 15:15,1,open,Eyes closed not before 2:38,epilepsy,signal-623-1.csv.gz
+624,268,1/10/2016 15:21,1,closed,Medicijn Carbamazepin ,epilepsy,signal-624-1.csv.gz
+625,268,1/10/2016 15:33,1,open,"Vrouw is mentaal geretardeerd, let niet goed op, doet niet precies wat de bedoeling is",epilepsy,signal-625-1.csv.gz
+626,268,1/10/2016 15:39,1,closed,Opende ogen al een paar keer rond de 2.20,epilepsy,signal-626-1.csv.gz
+627,247,1/10/2016 15:46,1,open,no treatment - vergeten meting aan te zetten; pas na ong.45 sec. aangezet; meting daarom 4 min. (2min.eyes open / 2min. Eyes closed),epilepsy,signal-627-1.csv.gz
+628,268,1/10/2016 15:51,1,closed,,epilepsy,signal-628-1.csv.gz
+629,268,1/10/2016 15:57,1,open,Last convulsions (2-4 times per month) were more than 2 years ago,epilepsy,signal-629-1.csv.gz
+630,268,1/10/2016 16:02,1,closed,,epilepsy,signal-630-1.csv.gz
+631,268,1/10/2016 16:08,1,open,,epilepsy,signal-631-1.csv.gz
+632,268,1/10/2016 16:13,1,closed, ,epilepsy,signal-632-1.csv.gz
+633,268,1/10/2016 16:20,1,open,,epilepsy,signal-633-1.csv.gz
+634,268,1/10/2016 16:25,1,closed,,epilepsy,signal-634-1.csv.gz
+635,268,1/10/2016 16:31,1,open,"Every day a convulsion + snapt het niet goed, ze doet niet wat ze moet doen, beweegt, kijkt verkeerd, enz.",epilepsy,signal-635-1.csv.gz
+636,268,1/10/2016 16:36,1,closed,,epilepsy,signal-636-1.csv.gz
+637,268,1/10/2016 16:43,1,open,,epilepsy,signal-637-1.csv.gz
+638,273,1/10/2016 16:49,1,closed,Medicijn Carbamazepin ,epilepsy,signal-638-1.csv.gz

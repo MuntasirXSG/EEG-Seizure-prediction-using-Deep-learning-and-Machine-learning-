@@ -1,0 +1,98 @@
+subject.id,Group,Eyes.condition,Remarks,recordedPeriod,startTime
+1,Epilepsy,closed-3min-then-open-2min,by 45s reposition electrodes,301,27/5/2020 14:33
+2,Control,open-3min-then-closed-2min,NA,309,26/5/2020 22:44
+3,Epilepsy,closed-3min-then-open-2min,NA,309,27/5/2020 14:26
+4,Epilepsy,closed-3min-then-open-2min,"Green lights not shown, but good EEG traces",299,27/5/2020 15:23
+5,Control,closed-3min-then-open-2min,NA,302,23/5/2020 19:09
+6,Control,closed-3min-then-open-2min,NA,303,31/5/2020 19:53
+7,Epilepsy,closed-3min-then-open-2min,NA,302,27/5/2020 14:39
+8,Epilepsy,closed-3min-then-open-2min,NA,332,27/5/2020 16:07
+9,Epilepsy,closed-3min-then-open-2min,NA,331,27/5/2020 11:25
+10,Epilepsy,closed-3min-then-open-2min,at 4:30 orange channel (FC),311,27/5/2020 12:58
+11,Control,closed-3min-then-open-2min,NA,299,31/5/2020 20:32
+12,Control,closed-3min-then-open-2min,NA,300,31/5/2020 21:02
+13,Epilepsy,closed-3min-then-open-2min,30sec more eyes closed,319,27/5/2020 12:22
+14,Epilepsy,closed-3min-then-open-2min,NA,319,27/5/2020 13:30
+15,Epilepsy,closed-3min-then-open-2min,NA,300,27/5/2020 11:52
+16,Control,closed-3min-then-open-2min,NA,304,26/5/2020 22:37
+17,Epilepsy,closed-3min-then-open-2min,NA,305,27/5/2020 13:17
+18,Control,closed-3min-then-open-2min,NA,300,31/5/2020 19:47
+19,Epilepsy,closed-3min-then-open-2min,NA,307,27/5/2020 14:08
+20,Epilepsy,closed-3min-then-open-2min,at 1 min short stop of EEG signal on screen,303,27/5/2020 12:10
+21,Control,closed-3min-then-open-2min,NA,298,31/5/2020 19:42
+22,Epilepsy,closed-3min-then-open-2min,after 3 min reposition electrodes,304,27/5/2020 16:41
+23,Epilepsy,closed-3min-then-open-2min,NA,304,27/5/2020 16:50
+24,Epilepsy,closed-3min-then-open-2min,NA,290,31/5/2020 20:03
+25,Control,closed-3min-then-open-2min,NA,425,26/5/2020 22:28
+26,Epilepsy,closed-3min-then-open-2min,light head tremor,303,27/5/2020 12:30
+27,Control,open-3min-then-closed-2min,NA,303,23/5/2020 15:13
+28,Control,closed-3min-then-open-2min,NA,296,31/5/2020 20:38
+29,Epilepsy,closed-3min-then-open-2min,30sec more eyes closed; 3:30 stopped recording?,320,27/5/2020 13:11
+30,Epilepsy,closed-3min-then-open-2min,NA,302,27/5/2020 12:04
+31,Epilepsy,closed-3min-then-open-2min,Stored in second dataset,303,27/5/2020 15:14
+32,Epilepsy,closed-3min-then-open-2min,NA,303,27/5/2020 12:51
+33,Epilepsy,closed-3min-then-open-2min,NA,304,27/5/2020 13:36
+34,Epilepsy,closed-3min-then-open-2min,NA,302,27/5/2020 16:57
+35,Control,closed-3min-then-open-2min,NA,298,31/5/2020 19:36
+36,Epilepsy,closed-3min-then-open-2min,NA,305,27/5/2020 16:28
+37,Epilepsy,closed-3min-then-open-2min,"0 to 2 minute eyes closed (sleep activity?), 2-4 minute eyes open, 4-6 minute eyes closed",478,24/5/2020 12:05
+38,Epilepsy,closed-3min-then-open-2min,NA,307,27/5/2020 13:43
+39,Epilepsy,closed-3min-then-open-2min,EEG restarted 3 times due to dreadlocks,316,27/5/2020 14:18
+40,Epilepsy,closed-3min-then-open-2min,30sec more eyes closed,303,27/5/2020 11:18
+41,Epilepsy,closed-3min-then-open-2min,NA,323,27/5/2020 14:02
+42,Epilepsy,closed-3min-then-open-2min,NA,302,27/5/2020 15:44
+43,Control,closed-3min-then-open-2min,NA,298,31/5/2020 19:30
+44,Epilepsy,closed-3min-then-open-2min,"4min closed, 2min open",382,27/5/2020 13:23
+45,Epilepsy,closed-3min-then-open-2min,NA,303,27/5/2020 11:32
+46,Epilepsy,closed-3min-then-open-2min,NA,300,27/5/2020 15:32
+47,Epilepsy,closed-3min-then-open-2min,NA,303,27/5/2020 11:58
+48,Epilepsy,closed-3min-then-open-2min,became mute,299,27/5/2020 14:46
+49,Control,closed-3min-then-open-2min,NA,299,31/5/2020 19:24
+50,Epilepsy,closed-3min-then-open-2min,NA,307,27/5/2020 16:34
+51,Epilepsy,closed-3min-then-open-2min,OC yellow/orange signal,303,27/5/2020 15:53
+52,Epilepsy,closed-3min-then-open-2min,NA,305,27/5/2020 17:05
+53,Epilepsy,closed-3min-then-open-2min,NA,311,27/5/2020 11:45
+54,Epilepsy,closed-3min-then-open-2min,NA,301,27/5/2020 15:07
+55,Epilepsy,closed-3min-then-open-2min,NA,313,27/5/2020 13:55
+56,Epilepsy,closed-3min-then-open-2min,NA,301,27/5/2020 15:38
+57,Control,closed-3min-then-open-2min,NA,299,31/5/2020 20:26
+58,Control,open-3min-then-closed-2min,after 3.30 minutes eyes closed,303,23/5/2020 12:34
+59,Control,closed-3min-then-open-2min,NA,298,31/5/2020 20:50
+60,Epilepsy,closed-3min-then-open-2min,NA,302,27/5/2020 16:21
+61,Epilepsy,closed-3min-then-open-2min,After 5min eyes open,422,27/5/2020 14:58
+62,Control,closed-3min-then-open-2min,at 3:50 orange channel (FC),304,27/5/2020 13:04
+63,Control,closed-3min-then-open-2min,NA,300,27/5/2020 14:52
+64,Epilepsy,closed-3min-then-open-2min,NA,303,27/5/2020 16:00
+65,Epilepsy,closed-3min-then-open-2min,NA,306,27/5/2020 16:13
+66,Epilepsy,closed-3min-then-open-2min,NA,306,27/5/2020 13:49
+67,Epilepsy,closed-3min-then-open-2min,after 3:30 eyes open,330,27/5/2020 17:11
+68,Control,closed-3min-then-open-2min,NA,286,31/5/2020 20:56
+69,Control,closed-3min-then-open-2min,NA,315,27/5/2020 11:11
+70,Epilepsy,closed-3min-then-open-2min,after 3 minutes eyes open,390,24/5/2020 12:16
+71,Control,open-3min-then-closed-2min,NA,302,23/5/2020 12:59
+72,Control,open-3min-then-closed-2min,NA,304,23/5/2020 15:21
+73,Epilepsy,closed-3min-then-open-2min,NA,299,27/5/2020 12:17
+74,Control,closed-3min-then-open-2min,NA,299,31/5/2020 20:44
+75,Epilepsy,closed-3min-then-open-2min,difficulty keeping eyes fixed last two minutes,319,27/5/2020 11:39
+76,Control,closed-3min-then-open-2min,NA,308,31/5/2020 20:11
+77,Control,closed-3min-then-open-2min,NA,299,28/5/2020 22:07
+78,Control,open-3min-then-closed-2min,NA,301,29/5/2020 16:53
+79,Control,closed-3min-then-open-2min,NA,305,28/5/2020 22:29
+80,Control,closed-3min-then-open-2min,NA,304,28/5/2020 22:22
+81,Control,closed-3min-then-open-2min,NA,305,29/5/2020 16:21
+82,Control,closed-3min-then-open-2min,NA,289,29/5/2020 18:10
+83,Control,closed-3min-then-open-2min,NA,296,28/5/2020 22:01
+84,Control,closed-3min-then-open-2min,at 2:25 eye open once,299,28/5/2020 21:47
+85,Control,open-3min-then-closed-2min,NA,303,29/5/2020 17:48
+86,Control,open-3min-then-closed-2min,NA,304,29/5/2020 18:05
+87,Control,open-3min-then-closed-2min,NA,305,29/5/2020 17:14
+88,Control,closed-3min-then-open-2min,NA,305,29/5/2020 18:22
+89,Control,closed-3min-then-open-2min,NA,295,28/5/2020 22:15
+90,Control,closed-3min-then-open-2min,NA,301,29/5/2020 16:40
+91,Control,closed-3min-then-open-2min,NA,304,28/5/2020 20:27
+92,Control,open-3min-then-closed-2min,2.15 telephone rings,300,29/5/2020 17:59
+93,Control,closed-3min-then-open-2min,NA,307,29/5/2020 16:34
+94,Control,closed-3min-then-open-2min,NA,300,28/5/2020 22:35
+95,Control,open-3min-then-closed-2min,NA,301,29/5/2020 16:46
+96,Control,open-3min-then-closed-2min,NA,294,29/5/2020 17:53
+97,Control,open-3min-then-closed-2min,NA,300,29/5/2020 17:42
